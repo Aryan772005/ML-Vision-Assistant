@@ -14,7 +14,7 @@ Built for performance and a modern UI experience, it features an intelligent con
 
 ---
 
-## 🤖 Core ML Architecture
+##  Core ML Architecture
 
 This application is built on a robust, multi-tiered Artificial Intelligence and Machine Learning architecture:
 
@@ -56,7 +56,7 @@ python main.py
 
 ---
 
-## 🧠 How to Train Your Own Model
+##  How to Train Your Own Model
 
 ML-Vision-Assistant allows you to completely customize the sign language vocabulary by capturing your own data and training a new model.
 
