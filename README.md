@@ -24,7 +24,7 @@ This application is built on a robust, multi-tiered Artificial Intelligence and 
 
 ---
 
-##  How to Install and Run
+##  How to Install and Run( Install and give a reviu and dont forget to train the model you can use sme from huging fa)
 
 It is very easy to set this up on your own device.
 
