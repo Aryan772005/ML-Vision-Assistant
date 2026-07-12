@@ -10,7 +10,7 @@ Built for performance and a modern UI experience, it features an intelligent con
 - **Fluent Auto-Speech:** Automatically speaks completed sentences aloud using integrated Text-to-Speech (TTS).
 - **Face Shape & Emotion Detection:** Analyzes your facial landmarks continuously in the background to determine your face shape (Oval, Square, Heart, Oblong) and current emotion.
 - **Integrated AI Assistant:** A built-in AI assistant to chat with, receive style recommendations based on your face shape, and summarize your signed conversations.
-- **Unified Dashboard:** A sleek, dark-themed UI built with CustomTkinter.
+- **Unified Dashboard:** A sleek, dark-themed UI built with CustomTkinter.,
 
 ---
 
