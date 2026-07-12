@@ -47,7 +47,7 @@ pip install -r requirements.txt
 If you want the AI chat and style recommendations to work, create a `.env` file in the root directory and add your Google Gemini API key:
 ```env
 Aryan's_model_API_KEY=your_api_key_here
-```
+```,
 
 ### 5. Run the Application
 ```bash
