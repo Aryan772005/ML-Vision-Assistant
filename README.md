@@ -73,7 +73,7 @@ Once you have collected enough data, run the training script. This script will e
 python dataset/train_model.py
 ```
 *When the training is complete, a new `model.p` file will be generated.*
-
+,
 ### Step 3: Run the App
 Start the main application again. It will automatically load your newly trained `model.p`!
 ```bash
