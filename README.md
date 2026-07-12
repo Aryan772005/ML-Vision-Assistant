@@ -12,7 +12,7 @@ Built for performance and a modern UI experience, it features an intelligent con
 - **Integrated AI Assistant:** A built-in AI assistant to chat with, receive style recommendations based on your face shape, and summarize your signed conversations.
 - **Unified Dashboard:** A sleek, dark-themed UI built with CustomTkinter.,
 
----
+---,
 
 ##  Core ML Architecture
 
